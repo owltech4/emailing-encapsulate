@@ -51,3 +51,4 @@ def decrypt_message(encrypted_message):
         # Here, you can decide what to do next, such as stopping the execution, returning a default value, etc. 
         # For example, you might return None or re-throw the exception to be handled elsewhere.
         return None  # Or, optionally, use ´raise´ to re-throw the exception.
+    
