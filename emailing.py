@@ -1,4 +1,4 @@
-# emailing.py
+# emailing.py - encapsulate the emailing
 
 import smtplib
 from email.message import EmailMessage
